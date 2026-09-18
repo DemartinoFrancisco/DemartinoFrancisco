@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí
 
 * 🎓 Estudiante avanzado de **Licenciatura en Informática** en la [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
-* 💻 Apasionado por la resolución de problemas a través del desarrollo de software.
+* 💻 Me motiva diseñar soluciones eficientes a problemas a través del desarrollo de software.
 * ⚙️ orientado principalmente al **Desarrollo Backend**, aplicando POO, TDD, Principios SOLID y Clean Code.
 * 🎯 Buscando mi primera experiencia laboral (part-time) para aportar valor a un equipo.
 
